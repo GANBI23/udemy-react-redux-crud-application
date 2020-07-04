@@ -1,5 +1,4 @@
 import { INCREMENT, DECREMENT } from '../actions'
-import { bindActionCreators } from 'redux'
 
 const initialState = { value: 0 }
 
